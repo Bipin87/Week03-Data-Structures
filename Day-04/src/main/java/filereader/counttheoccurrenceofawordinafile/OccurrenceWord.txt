@@ -1,0 +1,4 @@
+counting the occurrences of each character in a string
+is a fundamental operation that can be done in various ways.
+This process involves identifying the frequency of each character
+in the input string and displaying it in a readable format.

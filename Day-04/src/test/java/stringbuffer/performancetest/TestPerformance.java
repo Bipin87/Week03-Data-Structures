@@ -1,7 +1,6 @@
 package stringbuffer.performancetest;
 
 import org.junit.jupiter.api.Test;
-import stringbuffer.comparestringbufferwithstringbuilder.Main;
 
 
 import static java.lang.System.out;
