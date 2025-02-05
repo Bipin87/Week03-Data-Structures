@@ -1,0 +1,10 @@
+J unit
+
+It is testing tool(Specially java ).
+-It is a functional testing.
+Required for a testing repository
+
+three type of repository available for a testing tools
+1. Central
+2. local
+3. Private(Remote)
