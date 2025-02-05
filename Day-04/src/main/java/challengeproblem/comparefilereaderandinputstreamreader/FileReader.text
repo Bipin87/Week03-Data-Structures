@@ -1,0 +1,7 @@
+Whenever we write any program,
+it is not written in machine code.
+We write it in a high-level language like JAVA, C++, Python, etc.
+But the computer understands only the machine code.
+So when we execute our program,
+it is first converted into machine code or Byte code by the compiler and then executed by the Interpreter.
+
