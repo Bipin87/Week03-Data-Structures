@@ -1,0 +1,14 @@
+Êþº¾   C 5
+       java/lang/Object <init> ()V	 
+
+  java/lang/System out Ljava/io/PrintStream;  Hello and welcome!
+       java/io/PrintStream printf <(Ljava/lang/String;[Ljava/lang/Object;)Ljava/io/PrintStream;      makeConcatWithConstants (I)Ljava/lang/String;
+      println (Ljava/lang/String;)V   org/example/Main Code LineNumberTable main ([Ljava/lang/String;)V
+StackMapTable
+SourceFile 	Main.java BootstrapMethods ( i =  *
+ + ,  -  . $java/lang/invoke/StringConcatFactory ˜(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/invoke/CallSite; InnerClasses  1 %java/lang/invoke/MethodHandles$Lookup  3 java/lang/invoke/MethodHandles Lookup !                    *· ±             	 ! "     ^     '²  
+½ ¶ W<£ ²  º   ¶ „§ÿì±         
+
+  
+ &  #   	 ü ú   $    % &     )  ' /
+  0 2 4 
