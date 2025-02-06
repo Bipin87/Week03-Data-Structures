@@ -1,8 +1,8 @@
-package com.capgemini.challenge_problem.linear_search_first_missing_positive_integer;
+package com.capgemini.challenge_problem.linear_and_binary_search;
 
 import java.util.ArrayList;
 
-public class FirstMissPosInteger {
+public class LinearAndBinarySearch {
     public static int searchFirstMissingPositive(ArrayList<Integer> list){
         int n = list.size();
 
